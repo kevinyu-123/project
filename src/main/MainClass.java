@@ -1,7 +1,7 @@
 package main;
 
 import java.util.Scanner;
-
+import jinsu.Jinsu;
 import yhj.testPage;
 
 public class MainClass {
