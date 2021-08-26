@@ -1,5 +1,5 @@
 package main;
-
+import jinsu.Jinsu;
 import java.util.Scanner;
 import yhj.testPage;
 
